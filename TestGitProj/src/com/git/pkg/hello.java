@@ -1,5 +1,7 @@
 package com.git.pkg;
 
 public class hello {
-System.out.println("sub");
+void main(){
+System.out.println("fdfd");	
+}
 }
